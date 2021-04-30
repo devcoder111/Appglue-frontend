@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+form {
+  background-color: #282c34;
+  padding: 2rem;
+}
+
+h6 {
+  color: #FFF;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+.MuiInput-underline:after {
+  border-bottom: unset !important;
+}
+
+.search-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.save-button-container {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.info-text {
+  margin: 0;
+  font-size: 14px;
+}
+
+.info-text-error {
+  color: #f50057;
+}
+
+.info-text-success {
+  color: #FFF;
+}

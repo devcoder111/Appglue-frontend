@@ -1,0 +1,24 @@
+{
+    "user": [{
+        "userID": 1,
+        "id": 1,
+        "fullName": "Oscar Sandoval",
+        "email": "ojrs@correo.com",
+        "age": 23,
+        "status": "success"
+    },{
+        "userID": 2,
+        "id": 2,
+        "fullName": "Oscar Cala",
+        "email": "oscar.cala@correo.com",
+        "age": 23,
+        "status": "success"
+    },{
+        "userID": 3,
+        "id": 3,
+        "fullName": "Sergio Naranjo",
+        "email": "sergio@correo.com",
+        "age": 23,
+        "status": "success"
+    }]
+}
